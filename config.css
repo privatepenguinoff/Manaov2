@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	font-family: myriad-pro, sans-serif;
+	font-size: 14px;
+	line-height: 1.6;
+	color: black;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+.container {
+	width: 100%;
+	max-width: 1280px;
+	margin: 0 auto;
+}
+
+.heading {
+	text-align: center;
+}
+
+.input {
+	padding-top: 15px;
+	margin-left: 550px;
+}
